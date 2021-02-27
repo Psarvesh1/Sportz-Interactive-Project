@@ -1,5 +1,5 @@
 # Sportz-Interactive-Project
-A web-application showing details of football players with the help of API.
+A web-application showing details of football players with the help of API.\
 Live demo - https://sportz-interactive-project-by-sarveshparab.netlify.app/
 
 # Getting Started with Create React App
